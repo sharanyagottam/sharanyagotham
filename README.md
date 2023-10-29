@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning Python, Java, Web Development.
 - 💞️ I’m looking to collaborate on Web Development, C, Java amd python.
 - 📫 How to reach me is to contact me through Gmail or LinkedIn.
-<h3 align="center">A passionate frontend developer from India</h3>
+<h3 align="center"> JAVA | JavaScript | MERN | Python | SQL | ANN and DL </h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sharanyagotham&label=Profile%20views&color=0e75b6&style=flat" alt="sharanyagotham" /> </p>
 
