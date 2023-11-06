@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @sharanyagotham
-- 💻 I’m interested in Coding and Web Development.
-- 🌱 I’m currently learning Python, SQL , MERN Stack.
-- 👯 I’m looking to collaborate on Web Development, C, Java amd python.
-- 📫 How to reach me is to contact me through Gmail or LinkedIn or Instagram 😊
+-> 👋 Hi, I’m @sharanyagotham
+-> 💻 I’m interested in Coding and Web Development.
+-> 🌱 I’m currently learning Python, SQL , MERN Stack.
+-> 👯 I’m looking to collaborate on Web Development, C, Java amd python.
+-> 📫 How to reach me is to contact me through Gmail or LinkedIn or Instagram 😊
 <h3 align="center"> JAVA | JavaScript | MERN | Python | SQL | ANN and DL </h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sharanyagotham&label=Profile%20views&color=0e75b6&style=flat" alt="sharanyagotham" /> </p>
